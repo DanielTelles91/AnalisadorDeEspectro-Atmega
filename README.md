@@ -1,5 +1,6 @@
-# AnalisadorDeEspectro-Atmega
 # Stereo 10-Band Audio Spectrum Analyzer (Professional-Grade)
+
+Projeto Desenvolvido no ano de 2023
 
 This is a professional-grade **10-band stereo audio spectrum analyzer**.
 It analyzes audio signals and displays their intensity in dB on a LED bar display.
