@@ -33,13 +33,13 @@ The system has been carefully calibrated with precision equipment to ensure maxi
 
 ## Media
 
-![image info](Fotos/Cima.JPEG)
-![image info](Fotos/Frente1.JPEG)
-![image info](Fotos/Frente2.JPEG)
-![image info](Fotos/Lateral.JPEG)
-![image info](Fotos/Traseira.JPEG)
-
-
+<p align="center">
+  <img src="Fotos/Cima.JPEG" width="32%">
+  <img src="Fotos/Frente1.JPEG" width="32%">
+  <img src="Fotos/Frente2.JPEG" width="32%">
+  <img src="Fotos/Lateral.JPEG" width="32%">
+  <img src="Fotos/Traseira.JPEG" width="32%">
+</p>
 
 https://github.com/user-attachments/assets/92ead28e-b9d8-41bb-8769-a254721274eb
 
